@@ -1,2 +1,1 @@
-# Projeto-da-Aula-40
-Projeto da aula 40
+# PRO-V2-C40-ModeloProjeto
